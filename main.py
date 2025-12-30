@@ -51,7 +51,7 @@ if __name__ == "__main__":
     print(f"Başlangıç Tohumu (Seed): {rng.state}")
     print("--- Collatz Mantığıyla 300 Sayı Üretimi (İlk 10'u) ---")
     
-    # Hoca tahtada 300 RSÜ demiş, 300 tane üretilebilir.
+   
     liste = []
     for _ in range(300):
         sayi = rng.randint(0, 100)
