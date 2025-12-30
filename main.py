@@ -4,7 +4,7 @@ class CollatzRNG:
     """
     Collatz Sanısı (3x+1 Problemi) tabanlı Sözde Rastgele Sayı Üreteci.
     
-    Tahtadaki Formül:
+    
     - Sayı çift ise: x / 2
     - Sayı tek ise: 3x + 1
     """
